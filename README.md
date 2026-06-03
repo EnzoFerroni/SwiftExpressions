@@ -32,6 +32,7 @@ get a **Taylor Swift song** — with its lyrics — that matches exactly how you
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Team](#-team)
+- [License](#-license)
 
 ---
 
@@ -212,10 +213,11 @@ Then hit **⌘R** to build and run.
 
 ---
 
-<div align="center">
+## 📄 License
 
 Released under the [MIT License](LICENSE). © 2025 Camila Toniato, Enzo Ferroni, Gustavo Pinotti, Tamires Mendes, Thais Canguçu and Yasmin Mendes.
 
+<div align="center">
+<br/>
 <sub>Made with 💜 and a lot of Taylor Swift.</sub>
-
 </div>
