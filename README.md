@@ -168,43 +168,41 @@ Then hit **⌘R** to build and run.
 ## 👥 Team
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/camilatoniato" target="_blank"><img src="https://github.com/camilatoniato.png" width="100" alt="Camila Toniato"/></a>
-        <br/><sub><b>Camila Toniato</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/camilatoniato" target="_blank"><img src="https://github.com/camilatoniato.png" width="80" alt="Camila Toniato"/></a>
+        <br/><sub><b>Camila Toniato</b></sub><br/>
         <a href="https://github.com/camilatoniato" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/camila-ruiz-toniato-91a926301/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/EnzoFerroni" target="_blank"><img src="https://github.com/EnzoFerroni.png" width="100" alt="Enzo Ferroni"/></a>
-        <br/><sub><b>Enzo Ferroni</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/EnzoFerroni" target="_blank"><img src="https://github.com/EnzoFerroni.png" width="80" alt="Enzo Ferroni"/></a>
+        <br/><sub><b>Enzo Ferroni</b></sub><br/>
         <a href="https://github.com/EnzoFerroni" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/enzoferroni/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/7uigi" target="_blank"><img src="https://github.com/7uigi.png" width="100" alt="Gustavo Pinotti"/></a>
-        <br/><sub><b>Gustavo Pinotti</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/7uigi" target="_blank"><img src="https://github.com/7uigi.png" width="80" alt="Gustavo Pinotti"/></a>
+        <br/><sub><b>Gustavo Pinotti</b></sub><br/>
         <a href="https://github.com/7uigi" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/gustavo-pinotti-a2800435a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/TamiresMendesS" target="_blank"><img src="https://github.com/TamiresMendesS.png" width="100" alt="Tamires Mendes"/></a>
-        <br/><sub><b>Tamires Mendes</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/TamiresMendesS" target="_blank"><img src="https://github.com/TamiresMendesS.png" width="80" alt="Tamires Mendes"/></a>
+        <br/><sub><b>Tamires Mendes</b></sub><br/>
         <a href="https://github.com/TamiresMendesS" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/tamires-mendes-6006792b7/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/Thaiscangucu" target="_blank"><img src="https://github.com/Thaiscangucu.png" width="100" alt="Thais Canguçu"/></a>
-        <br/><sub><b>Thais Canguçu</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/Thaiscangucu" target="_blank"><img src="https://github.com/Thaiscangucu.png" width="80" alt="Thais Canguçu"/></a>
+        <br/><sub><b>Thais Canguçu</b></sub><br/>
         <a href="https://github.com/Thaiscangucu" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/thaiscangucu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/YasminMSouza" target="_blank"><img src="https://github.com/YasminMSouza.png" width="100" alt="Yasmin Mendes"/></a>
-        <br/><sub><b>Yasmin Mendes</b></sub><br/><br/>
+      <td align="center" width="16%">
+        <a href="https://github.com/YasminMSouza" target="_blank"><img src="https://github.com/YasminMSouza.png" width="80" alt="Yasmin Mendes"/></a>
+        <br/><sub><b>Yasmin Mendes</b></sub><br/>
         <a href="https://github.com/YasminMSouza" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
         <a href="https://www.linkedin.com/in/yasmin-mendes-629a29267/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
       </td>
