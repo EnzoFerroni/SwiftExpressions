@@ -27,6 +27,7 @@ get a **Taylor Swift song** — with its lyrics — that matches exactly how you
 - [Screenshots](#-screenshots)
 - [How It Works](#-how-it-works)
 - [Emotions → Songs](#-emotions--songs)
+- [Model & Dataset](#-model--dataset)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -93,7 +94,7 @@ The returned label is matched in `ResultPage.swift` against a song dictionary in
 ## 🎭 Emotions → Songs
 
 The `FacialExpressions` Core ML model classifies five emotions, each mapped to a
-curated set of Taylor Swift songs:
+**hand-curated** set of Taylor Swift songs:
 
 <div align="center">
 
@@ -106,6 +107,21 @@ curated set of Taylor Swift songs:
 | 🥰 `love` | Romantic, lovestruck hits |
 
 </div>
+
+---
+
+## 🧪 Model & Dataset
+
+Two pieces of data work together behind the scenes:
+
+- **Facial-expression model** — trained with **Create ML** as an image classifier.
+  We took a **dataset of facial-expression images**, split it into **training and
+  testing** sets, and trained the model that ships as `FacialExpressions.mlmodel`
+  and runs **on-device** with Core ML + Vision.
+- **Song classification** — we collected **every Taylor Swift song** and
+  **manually classified each one** into the five emotion categories used in the app
+  (`happy`, `sad`, `angry`, `fear`, `love`), so each detected emotion maps to songs
+  that actually match the mood.
 
 ---
 
@@ -123,8 +139,8 @@ curated set of Taylor Swift songs:
 
 - **Language:** Swift 5
 - **UI:** SwiftUI
-- **ML:** Core ML + Vision (`FacialExpressions.mlmodel`)
-- **Data:** Songs & lyrics from `Songs.swift` / `taylor_lyrics.csv`
+- **ML:** Create ML (training) + Core ML & Vision (on-device inference) — `FacialExpressions.mlmodel`
+- **Data:** facial-expression image dataset (train/test) · Taylor Swift songs & lyrics (`Songs.swift` / `taylor_lyrics.csv`)
 - **Minimum target:** iOS 18.0
 
 ---
