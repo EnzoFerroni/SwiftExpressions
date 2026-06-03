@@ -30,7 +30,7 @@ get a **Taylor Swift song** — with its lyrics — that matches exactly how you
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Authors](#-authors)
+- [Team](#-team)
 
 ---
 
@@ -152,7 +152,7 @@ Then hit **⌘R** to build and run.
 
 ---
 
-## 👥 Authors
+## 👥 Team
 
 <div align="center">
   <table>
