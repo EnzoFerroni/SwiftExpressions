@@ -24,6 +24,7 @@ get a **Taylor Swift song** — with its lyrics — that matches exactly how you
 ## 📑 Table of Contents
 
 - [About](#-about)
+- [Screenshots](#-screenshots)
 - [How It Works](#-how-it-works)
 - [Emotions → Songs](#-emotions--songs)
 - [Features](#-features)
@@ -42,6 +43,18 @@ Swift song — and its lyrics — that fits the mood. Sad? Happy? In love? There
 song for that. 🎤
 
 Everything runs **on-device** with Core ML + Vision — no servers, no uploads.
+
+---
+
+## 📱 Screenshots
+
+<div align="center">
+
+| Home | Add a Photo |
+|:---:|:---:|
+| <img src="docs/telaInicial.jpeg" width="260"/> | <img src="docs/adicionarFoto.jpeg" width="260"/> |
+
+</div>
 
 ---
 
